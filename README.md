@@ -1,0 +1,2 @@
+# webpack-application-example
+webpack
