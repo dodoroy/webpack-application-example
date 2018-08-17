@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3,2],{tjUo:function(e,n,o){"use strict";o.r(n);var a=o("LvDl"),t=o.n(a);var c=o("v8HX"),p=o.n(c);console.log("I get called from print.js!!!"+t.a.join(["tt","dd"]));let d=t.a.join(["hello","webpack"]);alert(d);var l=new Image;l.src=p.a,document.body.appendChild(l)},v8HX:function(e,n,o){e.exports=o.p+"87e69f37f4f61cdc8a641f387e4be609.png"}},[["tjUo",1,0]]]);
+//# sourceMappingURL=print.9ec43fbbf74ef81f0329.js.map
